@@ -1,4 +1,4 @@
-public class Person (
+public class person (
     val name: String,
     var age: Int
     ) {
